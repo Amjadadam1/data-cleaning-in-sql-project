@@ -1,3 +1,3 @@
 # Data Cleaning IN SQL Project 
 
-### in this i cleand data using Housing data using microsoft sql Server 
+### In this project cleaned  Housing data using Microsoft SQL Server 
